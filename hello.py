@@ -1,5 +1,5 @@
 # This program says hello and ask for my name
-"""
+
 print("Hello world!")
 print("What is Your name?")
 my_name=input() #input function
@@ -9,7 +9,7 @@ print(len(my_name))
 print("What is your age?") #ask about age
 my_age=input() 
 print("You will be "+str(int(my_age)+1)+ " in a year.")
-"""
+
 print("I'm "+"29"+" old")
 print("I've "+ str(41)+ " years old.")
 
